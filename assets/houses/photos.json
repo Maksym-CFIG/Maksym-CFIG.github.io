@@ -1,0 +1,42 @@
+{
+  "palachovka": {
+    "w": 1124,
+    "h": 675,
+    "from": "palachovka.jpg",
+    "spin": 16,
+    "share": 0.855,
+    "cut": 0.443
+  },
+  "kostelicek": {
+    "w": 1150,
+    "h": 1120,
+    "from": "kostelicek.jpg",
+    "spin": 0,
+    "share": 0.926,
+    "cut": 0.035
+  },
+  "karlovina": {
+    "w": 1150,
+    "h": 1472,
+    "from": "karlovina.jpg",
+    "spin": 0,
+    "share": 0.952,
+    "cut": 0.035
+  },
+  "labska": {
+    "w": 1150,
+    "h": 913,
+    "from": "viladomy labska.jpg",
+    "spin": 0,
+    "share": 0.952,
+    "cut": -0.023
+  },
+  "hradecka": {
+    "w": 1150,
+    "h": 1077,
+    "from": "bulvar-hradecka.jpg",
+    "spin": 0,
+    "share": 0.947,
+    "cut": -0.049
+  }
+}
