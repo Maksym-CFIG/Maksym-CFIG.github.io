@@ -1,4 +1,4 @@
-import{s as B}from"./about.C6BB0xg0.js";import"./Base.astro_astro_type_script_index_0_lang.mUXfsVdc.js";import"./Lab.astro_astro_type_script_index_0_lang.Bf3DnYpR.js";import"./router.UeToN5xW.js";import"./three.module.CforAgrD.js";const W=`
+import{s as B}from"./about.CT5Z4ZeC.js";import"./Base.astro_astro_type_script_index_0_lang.DjyTVt6c.js";import"./Lab.astro_astro_type_script_index_0_lang.Bf3DnYpR.js";import"./router.UeToN5xW.js";import"./three.module.CforAgrD.js";const W=`
 attribute vec2 p;
 varying vec2 vUv;
 void main() {
