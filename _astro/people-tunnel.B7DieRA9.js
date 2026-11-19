@@ -1,4 +1,4 @@
-import{s as G}from"./about.C8r3SBDY.js";import"./preload-helper.BlTxHScW.js";import"./three.module.BDbTcLBq.js";import"./three.core.Bs7hxDeK.js";import"./ui.d-92HD8E.js";const k=`
+import{s as G}from"./about.B5HoCot6.js";import"./preload-helper.BlTxHScW.js";import"./three.module.2SwsOW1X.js";import"./three.core.Gwy6y2Io.js";import"./ui.d-92HD8E.js";const k=`
 attribute vec2 p;
 varying vec2 vUv;
 void main() {
